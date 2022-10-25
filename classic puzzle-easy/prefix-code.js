@@ -1,4 +1,4 @@
-#https://www.codingame.com/training/easy/prefix-code
+//https://www.codingame.com/training/easy/prefix-code
 var dy={}
 const n = parseInt(readline());
 for (let i = 0; i < n; i++) {
