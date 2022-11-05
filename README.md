@@ -1,2 +1,2 @@
 # CodingGame
-Problems and solutions
+Notes for coding problems and solutions
