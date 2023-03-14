@@ -1,5 +1,6 @@
 //https://www.codingame.com/training/medium/cylinders
 //CYLINDERS
+//check if it can be done by permutation method in ruby
 #include <bits/stdc++.h>
 using namespace std;
 double r[11];
