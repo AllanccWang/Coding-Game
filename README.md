@@ -1,2 +1,2 @@
 # CodingGame
-Notes for coding game
+records for algorithmic puzzles
