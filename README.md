@@ -1,2 +1,2 @@
 # CodingGame
-records for algorithmic puzzles
+Records for algorithmic puzzles
