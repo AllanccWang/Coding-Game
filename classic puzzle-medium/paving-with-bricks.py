@@ -22,4 +22,3 @@ w = int(input())
 h = int(input())
 
 print(count_tilings(w,h))
-print(count_tilings(w,h))
