@@ -21,8 +21,8 @@ Your program must output the result of the product of a number of bracketed simp
 
 Pay attention to the formatting
 The coefficient is appended to the left of the constant.
-If a coefficient is 1 or -1, don't include the 1 symbol.
-If a coefficient or scalar term is 0, don't include it.
+If a coefficient is 1 or -1, dont include the 1 symbol.
+If a coefficient or scalar term is 0, dont include it.
 The terms must be displayed in order: ai + bj + ck + d.
 
 Example Multiplication
@@ -72,7 +72,7 @@ if a[0]!=0
     if a[0].abs!=1
         ans+=(a[0]<0?a[0].to_s: "#{a[0]}")+"i"
     else
-        ans+=(a[0]<0?"-":"+")+"i"
+        ans+=(a[0]<0?"-":"")+"i"
     end
 end
 if a[1]!=0
