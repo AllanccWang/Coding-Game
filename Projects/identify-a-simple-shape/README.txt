@@ -7,3 +7,4 @@ EMPTY SQUARE
 FILLED SQUARE
 EMPTY RECTANGLE
 FILLED RECTANGLE
+Here we use neural network method to solve the problem.
