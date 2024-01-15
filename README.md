@@ -1,3 +1,4 @@
+# CodinGame_logo.svg
 # What is this place about ?
 
 Codingame is an online platform offering ressources for developpers to developp their skills.
