@@ -1,1 +1,1 @@
-Solving problems with another point of view
+This folder contains small projects
