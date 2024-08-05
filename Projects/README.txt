@@ -1,1 +1,1 @@
-This folder contains "Small Project Ideas"
+This folder contains "Micro Project Ideas"
