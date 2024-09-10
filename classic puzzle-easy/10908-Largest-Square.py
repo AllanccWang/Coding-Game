@@ -1,12 +1,12 @@
 #10908-Largest-Square
 #https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/10908.pdf
-fin=open(r"C:\Users\All\Desktop\PythonLab\Input.txt",'r')
+fin=open(r"Input.txt",'r')
 stenc=[]
 for items in fin:
     stenc+=[items.rstrip()]
 fin.close()
 
-fout=open(r"C:\Users\All\Desktop\PythonLab\Output.txt",'w')
+fout=open(r"Output.txt",'w')
 M,N,T="","",""
 
 def check_length(grid,r,c,chr):
