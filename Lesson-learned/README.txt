@@ -1,1 +1,3 @@
-This :file_folder: contains a lesson learned or micro Project related to Machine Learning and Circuit Design.
+# This :file_folder: contains"
+## Machine Learning: lesson learned
+## Circuit Design: lesson learned or micro project
