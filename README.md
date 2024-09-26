@@ -1,5 +1,5 @@
 <figure class="half" style="display:flex">
-  <align="center" src="CodinGame_logo.svg.png"/>
+  <img align="center" src="CodinGame_logo.svg.png"/>
 </figure>
 <dt>What is this repository about ?</dt>
 
