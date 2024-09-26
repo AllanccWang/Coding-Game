@@ -1,6 +1,6 @@
 <img src="CodinGame_logo.svg.png" alt="CG" style="width:80%"><img src="ojlogo2.svg.png" alt="UVa" style="width:20%">
 
-<dt>What is this repository about ?</dt>
+##What is this repository about ?
 
 [**UVa Online Judge**](https://onlinejudge.org/) is an online automated judge for programming problems hosted by University of Valladolid. Its problem archive has over 4300 problems and user registration is open to everyone. There are currently over 100000 registered users. A user may submit a solution in ANSI C (C89), C++ (C++98), Pascal, Java, C++11 or Python.
 
