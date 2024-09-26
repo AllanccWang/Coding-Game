@@ -1,3 +1,4 @@
+<link type="text/css" rel="stylesheet" href="Flexbox.css" />
 <div class="row">
   <div class="column">
     <img src="CodinGame_logo.svg.png" alt="CG" style="width:50%">
