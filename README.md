@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="Flexbox.css">
 <div class="row">
   <div class="column">
-      <img src="CodinGame_logo.svg.png" alt="CG" style="width:80%">
+      <img src="CodinGame_logo.svg.png" alt="CG" style="width:20%">
     </div>
     <div class="column">
         <img src="ojlogo2.svg.png" alt="UVa" style="width:20%">
