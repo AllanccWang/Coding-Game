@@ -1,1 +1,1 @@
-This folder contains "Micro Project Ideas"
+## This folder contains a lesson learned and "Micro Project Ideas". :file_folder:
