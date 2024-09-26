@@ -2,7 +2,7 @@
 
 ## What is this repository about ?
 
-This repository is dedicated to some of my solutions, and includes a folder, [project](Projects) contains small project ideas. :smiley:
+This repository is dedicated to some of my solutions, and includes a [project](Projects) folder containing small project ideas. :smiley:
 
 [**UVa Online Judge**](https://onlinejudge.org/) is an online automated judge for programming problems hosted by University of Valladolid. Its problem archive has over 4300 problems and user registration is open to everyone. There are currently over 100000 registered users. A user may submit a solution in ANSI C (C89), C++ (C++98), Pascal, Java, C++11 or Python.
 
