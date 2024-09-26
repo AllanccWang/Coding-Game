@@ -1,4 +1,4 @@
-<img width="300px" align="left" src="CodinGame_logo.svg.png"/>
+<img width="750px" align="left" src="CodinGame_logo.svg.png"/>
 <img align="right" src="ojlogo2.svg.png"/>
 ## What is this repository about ?
 
