@@ -1,9 +1,22 @@
-<div class="container">
-    <div class="box">
-      <img src="CodinGame_logo.svg.png" alt="">
+<style>
+* {
+  box-sizing: border-box;
+}
+.row {
+  display: flex;
+}
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+</style>
+<div class="row">
+  <div class="column">
+      <img src="CodinGame_logo.svg.png" alt="CG" style="width:100%">
     </div>
-    <div class="box">
-        <img src="ojlogo2.svg.png" alt="">
+    <div class="column">
+        <img src="ojlogo2.svg.png" alt="UVa" style="width:100%">
     </div>
 </div>
 <dt>What is this repository about ?</dt>
