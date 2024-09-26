@@ -1,3 +1,3 @@
 This :file_folder: contains"
-`rgb(R,G,B)Machine Learning:` lesson learned
+`rgb(9, 105, 218) Machine Learning:` lesson learned
 ## Circuit Design: lesson learned or micro project
