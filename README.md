@@ -1,6 +1,5 @@
 <figure class="half" style="display:flex">
-  <img width="800px" height="136px" align="left" src="CodinGame_logo.svg.png"/>
-  <img align="right" src="ojlogo2.svg.png"/>
+  <align="center" src="CodinGame_logo.svg.png"/>
 </figure>
 <dt>What is this repository about ?</dt>
 
