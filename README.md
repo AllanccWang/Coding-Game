@@ -1,10 +1,10 @@
 <link rel="stylesheet" type="text/css" href="Flexbox.css">
 <div class="row">
   <div class="column">
-      <img src="CodinGame_logo.svg.png" alt="CG" style="width:20%">
+      <img src="CodinGame_logo.svg.png" alt="CG" style="width:50%">
     </div>
     <div class="column">
-        <img src="ojlogo2.svg.png" alt="UVa" style="width:20%">
+        <img src="ojlogo2.svg.png" alt="UVa" style="width:50%">
     </div>
 </div>
 <dt>What is this repository about ?</dt>
